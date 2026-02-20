@@ -1,0 +1,6 @@
+[user]
+	name = Nabeel Zewail
+	email = nabeel@fastmail.com
+[pager]
+	branch = false
+	diff = false
