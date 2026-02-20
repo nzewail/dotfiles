@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": [
+    "jq@latest",
+    "ripgrep@latest",
+    "xsv@latest",
+    "btop@latest",
+    "eza@latest",
+    "cloc@latest",
+    "neovim@latest",
+    "lazygit@latest",
+    "fastfetch@latest",
+    "fzf@latest",
+    "ncdu@latest",
+    "tree@latest",
+    "lua@latest",
+    "luarocks@latest",
+    "granted@latest",
+    "direnv@latest"
+  ]
+}
