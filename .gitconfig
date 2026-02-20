@@ -1,6 +1,10 @@
 [user]
 	name = Nabeel Zewail
-	email = nabeel@fastmail.com
+	email = nzewail@hey.com
 [pager]
 	branch = false
 	diff = false
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
