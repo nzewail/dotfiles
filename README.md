@@ -1,3 +1,3 @@
-# dotfiles
+# my setup
 
-Nothing fancy just some dotfiles
+Nothing fancy just some dev tools i like to use
